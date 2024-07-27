@@ -11,7 +11,7 @@ This guide provides a **comprehensive approach to hardware obfuscation** using [
 #
 ## Purpose
 - #### Strategic Rationale
-  - The decision to focus on evading anti-cheat systems is strategic. Anti-cheat systems, like BE and EAC, are highly funded, well-organized, and developed by intelligent professionals. These characteristics mirror how sophisticated hacking groups operate. By successfully evading such robust systems, the techniques developed can be adapted to broader cybersecurity applications, providing valuable insights into defending against equally well-funded and organized malicious entities.
+  - The decision to focus on evading anti-cheat systems is strategic. Anti-cheat systems, like BE and EAC, are highly funded, well-organized, and developed by intelligent professionals. These characteristics **mirror how sophisticated hacking groups operate**. By successfully evading such strong systems, the techniques developed can be adapted to broader cybersecurity applications, providing valuable insights into defending against equally well-funded and organized malicious entities.
 
 This project demonstrates the customization of DMA firmware to evade detection by anti-cheat systems such as BattleEye (BE) and Easy Anti-Cheat (EAC). This work highlights expertise in firmware development, hardware manipulation, and cybersecurity, showcasing advanced skills that are highly valuable in the tech industry.
 
