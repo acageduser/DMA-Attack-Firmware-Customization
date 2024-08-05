@@ -64,7 +64,17 @@ Attackers often prioritize targeting high-value hardware. By disguising such har
 #
 #
 # The Project
-This project has not yet begun.
+This project has begun, however it is currently in development and not yet completed. (Augest 4 2024)
+## 1. Introduction information:
+#### 35T
+This project will be using a 35T: Squirrel device. 75T and 100T devices will be different!
+#### Why RTL8111?
+I will also be using the RTL8111 as a 'donor card'. A <ins>donor card</ins> refers to the physical device I'll pull legitimate IDs off of. The donor cards information will be put onto the DMA card. Using a real network card will ensure my IDs are all accurate.
+####
+I picked the RTL8111 because the drivers are all well documented. This is an important step to keep in mind when choosing the right donor card. Open source drivers are best. A list of open source drivers can be found on [this wiki](https://en.wikipedia.org/wiki/Comparison_of_open-source_wireless_drivers) on the [Comparison of Open-Source Wireless Drivers](https://en.wikipedia.org/wiki/Comparison_of_open-source_wireless_drivers).
+
+## 2. Donor Card IDs
+Gathering the IDs off of the donor card is the first part of the project. 
 
 #
 #
