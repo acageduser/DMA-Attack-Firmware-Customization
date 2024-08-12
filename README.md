@@ -64,7 +64,7 @@ Attackers often prioritize targeting high-value hardware. By disguising such har
 #
 #
 # The Project
-This project has begun, however it is currently in development and not yet completed. (Augest 4 2024)
+This project has begun, however it is currently in development and not yet completed. (Augest 12 2024)
 ## 1. Introduction information:
 #### 35T
 This project will be using a 35T: Squirrel device. 75T and 100T devices will be different!
@@ -75,6 +75,9 @@ I picked the RTL8111 because the drivers are all well documented. This is an imp
 
 ## 2. Donor Card IDs
 Gathering the IDs off of the donor card is the first part of the project. 
+
+#
+Currently waiting for some hardware from China. Will develop further once the hardware arrives!
 
 #
 #
