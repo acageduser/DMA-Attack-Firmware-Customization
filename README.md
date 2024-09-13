@@ -1,5 +1,5 @@
 # DMA-Attack-Firmware-Customization
-This guide provides a **comprehensive approach to hardware obfuscation** using [LambdaConcept's PCIe Screamer Squirrel DMA board](https://shop.lambdaconcept.com/home/50-screamer-pcie-squirrel.html). The project involves simulating a DMA card to avoid detection by anti-cheat systems, disguising it as a [Realtek RTL8111](https://www.aliexpress.us/item/3256805896010027.html) PCIe ethernet network card. This technique is key in cybersecurity, offering innovative methods to protect high-value hardware from automated detection systems.
+This guide provides a **comprehensive approach to hardware obfuscation** using [LambdaConcept's PCIe Screamer Squirrel DMA board](https://shop.lambdaconcept.com/home/50-screamer-pcie-squirrel.html). The project involves simulating a DMA card to avoid detection by anti-cheat systems, disguising it as a [Realtek RTL8111](https://www.aliexpress.us/item/3256805896010027.html) PCIe ethernet network card. This technique is key in cybersecurity, offering innovative methods to protect high-value hardware from automated detection systems. This project is for EDUCATIONAL PURPOSES ONLY.
 
 # Key Skills Demonstrated
 - **Firmware Development:** Customized and modified firmware to achieve specific objectives.
@@ -39,16 +39,10 @@ Attackers often prioritize targeting high-value hardware. By disguising such har
 #### Examples of High-Value Hardware:
 - **Servers:** Critical for hosting applications, databases, and sensitive information. Targeting these can lead to significant data breaches and disruptions.
 - **Network Routers and Switches:** Central to the infrastructure, compromising these can provide access to a vast amount of network traffic and control.
-- **Storage Arrays:** Often contain vast amounts of sensitive data, making them a prime target for attackers looking to exfiltrate information.
-- **Industrial Control Systems (ICS):** Essential for managing critical infrastructure like power plants and water systems. Compromising ICS can have severe consequences on public safety and services.
-- **Financial Transaction Systems:** Handling financial data and transactions, these systems are prime targets for theft and fraud.
 
 #### Examples of Low-Value Hardware:
 - **Printers:** Commonplace and often overlooked, making them ideal candidates for disguising high-value assets.
 - **Scanners:** Similar to printers, these are not typically seen as high-value targets but are prevalent in many environments.
-- **Fax Machines:** Although becoming obsolete, they still exist in some industries and can be used to mask more critical assets.
-- **IoT Devices:** Often considered low-value due to their specific and limited functionality, yet they are ubiquitous and can serve as effective disguises.
-- **Peripheral Devices:** Keyboards, mice, and other peripherals are rarely targeted but can be used to mask the presence of more critical hardware.
 
 ### Advantages of Hardware Obfuscation:
 - **Reduced Detection Risk:** By masking high-value assets, the chances of them being targeted are significantly reduced.
@@ -64,7 +58,9 @@ Attackers often prioritize targeting high-value hardware. By disguising such har
 #
 #
 # The Project
-This project has begun, however it is currently in development and not yet completed. (Augest 12 2024)
+
+### This project has begun, however it is currently in development and not yet completed. (Updated: September 13 2024)
+
 ## 1. Introduction information:
 #### 35T
 This project will be using a 35T: Squirrel device. 75T and 100T devices will be different!
@@ -77,7 +73,7 @@ I picked the RTL8111 because the drivers are all well documented. This is an imp
 Gathering the IDs off of the donor card is the first part of the project. 
 
 #
-Currently waiting for some hardware from China. Will develop further once the hardware arrives!
+Currently waiting for some hardware from China. Will develop further once the hardware arrives! (Dupdate: 13 September 2024 - Shipping date delivery set for 24-27 September 2024)
 
 #
 #
