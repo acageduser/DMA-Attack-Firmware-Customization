@@ -73,7 +73,7 @@ I picked the RTL8111 because the drivers are all well documented. This is an imp
 Gathering the IDs off of the donor card is the first part of the project. 
 
 #
-Currently waiting for some hardware from China. Will develop further once the hardware arrives! (Dupdate: 13 September 2024 - Shipping date delivery set for 24-27 September 2024)
+Currently waiting for some hardware from China. Will develop further once the hardware arrives! (Update: 13 September 2024 - Shipping date delivery set for 24-27 September 2024)
 
 #
 #
