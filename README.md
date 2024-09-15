@@ -24,10 +24,10 @@ This project demonstrates the customization of DMA firmware to evade detection b
     <img src="https://github.com/user-attachments/assets/c866e84e-980e-4696-a445-fb1db5273403" width="60%">
 
 - Software:
-  - [Xilinx Vivado](https://www.xilinx.com/support/download.html)
-  - [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
-  - PCILeech-FPGA [Source Code](https://github.com/ufrisk/pcileech-fpga)
   - [Arbor](https://arbor-obfuscation-software.com)
+  - PCILeech-FPGA [Source Code](https://github.com/ufrisk/pcileech-fpga)
+  - [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
+  - [Xilinx Vivado](https://www.xilinx.com/support/download.html)
 
 ## Project Details
 ### What is the project?
