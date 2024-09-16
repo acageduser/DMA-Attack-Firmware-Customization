@@ -59,7 +59,7 @@ Attackers often prioritize targeting high-value hardware. By disguising such har
 #
 # The Project
 
-### This project has begun, however it is currently in development and not yet completed. (Updated: September 13 2024)
+### This project has begun, however it is currently in development and not yet completed. Currently waiting for some hardware from China. Will develop further once the hardware arrives! (Update: 13 September 2024 - Shipping date delivery set for 24-27 September 2024)
 
 ## 1. Introduction information:
 #### 35T
