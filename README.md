@@ -354,36 +354,57 @@ Line 359:
 
 This will link the capability structures in the configuation space based on the offsets and pointers. 
 
+Save your work so far.
 
+## 6. Building
 
+This will take a while to run. It took around 10 minutes on my 10600KF + 3070 PC.
 
+![image](https://github.com/user-attachments/assets/1296bd0d-8f1e-4fda-8143-7206d70d0774)
 
+Run ```source vivado_build.tcl -notrace``` again in the console.
 
+![image](https://github.com/user-attachments/assets/dd72ffeb-56c5-4392-a233-e5ae5bed6967)
 
+It will generate ```pchileech_squirrel_top.bin```. Flash this onto your DMA Card. This project will not go over how to flash the firmware onto the DMA card as that is out of the scope of this project. This project is for building custom firmware only.
 
+## 7. Testing
 
+Connect your second PC (Attack PC) to the PC with the DMA Card installed.
 
+insert pic of my DMA card plugged in
 
+insert image of my Laptop plugged in
 
+I can verify my firmware is working using [Lone DMA Test Tool](https://phoenixlabstore.com/lone-dma-test-tool/).
 
+insert image of lone DMA test tool
 
+## 8. Testing My Firmware Against BattleEye Anti Cheat
 
+DMA cards are forbidden to be plugged into your computer when launching a game equiped with BattleEye Anti Cheat. You will be banned immediately along with your hardware IDs logged on a blacklist. Do not try this part of the guide unless your firmware's configuration space does NOT resemble your vanilla card. Do this next part at your own risk.
 
+I will be testing on PlayerUnknown's Battlegrounds because it's a free online game that uses BattleEye anti cheat. I will also be accessing sections of the memory to draw enemy players character to verify the DMA card's ability to function perfectly normal from my attack PC. No, I will not release or make a tutorial for my memeory reader for obvious reasons. It is built privately by myself and a few friends for educational purposes only. It displays all enemy players 'stick art' even when I cannot see the player.
 
+#### Firmware Pass Check
 
+I have no issues logging into the game.
 
+insert pic of me in training mode
+
+#### DMA Card Functionality Check
+
+I can see all the 'stick players' on my attack PC.
+
+insert pic of the stick players
 
 #
-This project will not go over how to flash the firmware onto the DMA card as that is out of the scope of this project. This project is for building custom firmware only.
-#
+# Conclusion
 
+This project was a success. I will keep the status of my firmware up to date here. When this method no longer works, I will update this section.
 
+As of my last check, this method passes and works.
 
-
-
-#
-THIS PROJECT IS CURRENTLY IN DEVELOPMENT and NOT YET FINISHED. This is as far as I've gotten so far. Development will continue! (Last update on 26 September 2024)
-#
 #
 ## Documentation and Drivers Used
 #### Documentation
