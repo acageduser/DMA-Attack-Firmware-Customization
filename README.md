@@ -370,6 +370,7 @@ It will generate ```pchileech_squirrel_top.bin```. Flash this onto your DMA Card
 
 ## 7. Testing
 
+#### DMA Card Functionality Check
 Connect your second PC (Attack PC) to the PC with the DMA Card installed.
 
 insert pic of my DMA card plugged in
@@ -384,19 +385,13 @@ insert image of lone DMA test tool
 
 DMA cards are forbidden to be plugged into your computer when launching a game equiped with BattleEye Anti Cheat. You will be banned immediately along with your hardware IDs logged on a blacklist. Do not try this part of the guide unless your firmware's configuration space does NOT resemble your vanilla card. Do this next part at your own risk.
 
-I will be testing on PlayerUnknown's Battlegrounds because it's a free online game that uses BattleEye anti cheat. I will also be accessing sections of the memory to draw enemy players character to verify the DMA card's ability to function perfectly normal from my attack PC. No, I will not release or make a tutorial for my memeory reader for obvious reasons. It is built privately by myself and a few friends for educational purposes only. It displays all enemy players 'stick art' even when I cannot see the player.
+I will be testing on PlayerUnknown's Battlegrounds because it's a free online game that uses BattleEye anti cheat.
 
 #### Firmware Pass Check
 
 I have no issues logging into the game.
 
 insert pic of me in training mode
-
-#### DMA Card Functionality Check
-
-I can see all the 'stick players' on my attack PC.
-
-insert pic of the stick players
 
 #
 # Conclusion
