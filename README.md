@@ -392,7 +392,7 @@ I will be testing on PlayerUnknown's Battlegrounds because it's a free online ga
 
 I have no issues logging into the game.
 
-insert pic of me in training mode
+![image](https://github.com/user-attachments/assets/cbbaae37-bc14-43d6-8905-3075185f670c)
 
 #
 # Conclusion
