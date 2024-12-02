@@ -15,6 +15,9 @@ This guide provides a **comprehensive approach to hardware obfuscation** using [
 #### Strategic Rationale
 Focusing on evading anti-cheat systems like BattleEye (BE) and Easy Anti-Cheat (EAC) mirrors the complexity and organization of sophisticated hacking groups. These systems are developed by intelligent professionals and are highly funded, making them ideal testing grounds for advanced evasion techniques. Successfully bypassing such strong detection mechanisms not only highlights technical expertise but also provides valuable insights that can be applied to broader cybersecurity applications. By tackling these challenges, this project demonstrates customization of DMA firmware, expertise in hardware manipulation, and advanced cybersecurity skills—highly valuable in the tech industry and relevant to defending against equally well-funded, malicious entities.
 
+![Anti-Cheat Company](https://github.com/user-attachments/assets/a189bf0d-5063-411d-b707-095341bbf53b)
+
+
 ## Software and Hardware List
 - Hardware:
   - [LabmdaConcept's PCIe Screamer Squirrel DMA Board](https://shop.lambdaconcept.com/home/50-screamer-pcie-squirrel.html)
