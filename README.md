@@ -384,7 +384,7 @@ I can verify my firmware is working using [Lone DMA Test Tool](https://phoenixla
 
 ## 8. Testing My Firmware Against BattleEye Anti Cheat
 
-DMA cards are forbidden to be plugged into your computer when launching a game equiped with BattleEye Anti Cheat. You will be banned immediately along with your hardware IDs logged on a blacklist. Do not try this part of the guide unless your firmware's configuration space does NOT resemble your vanilla card. Do this next part at your own risk.
+DMA cards are forbidden to be plugged into your computer when launching a game equiped with BattleEye Anti Cheat. You will be banned immediately along with your hardware IDs logged on a blacklist. Do not try this part of the guide unless your firmware's configuration space does NOT resemble your vanilla card. I have altered my configuration space, however that is out of the scope of this project. I might go over this later, however if you are reading this note, it is not currently written in this guide. Do this next part at your own risk.
 
 I will be testing on PlayerUnknown's Battlegrounds because it's a free online game that uses BattleEye anti cheat.
 
