@@ -379,7 +379,8 @@ insert image of my Laptop plugged in
 
 I can verify my firmware is working using [Lone DMA Test Tool](https://phoenixlabstore.com/lone-dma-test-tool/).
 
-insert image of lone DMA test tool
+![image](https://github.com/user-attachments/assets/0c3a5924-8362-4597-b2ef-f20d16c097b2)
+
 
 ## 8. Testing My Firmware Against BattleEye Anti Cheat
 
