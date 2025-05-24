@@ -402,7 +402,7 @@ I have no issues logging into the game.
 
 This project was a success. I will keep the status of my firmware up to date here. When this method no longer works, I will update this section.
 
-As of my last check on 05/22/2025, this method passes and works.
+As of my last check on 05/23/2025, this method passes and works.
 
 #
 ## Documentation and Drivers Used
